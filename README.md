@@ -2,6 +2,9 @@
 
 # MedGraphAgent: Revolutionizing  Healthcare Analytics with GraphRAG (ArangoDB)
 
+
+# Our Youtube Video Link : https://youtu.be/jMXgADg3l2g?si=FAs66kPWee31AxUG
+
 ## Inspiration  💡
 
 Healthcare professionals face a daily struggle with fragmented data systems that obscure critical insights. When doctors need to understand the relationships between a patient’s conditions, medications, and outcomes, traditional analytics tools often fall short—presenting isolated data points instead of meaningful connections.
