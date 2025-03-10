@@ -325,3 +325,9 @@ Despite these hurdles, overcoming them led to improved technical proficiency, ef
 This journey taught us that the most complex challenges often have simple solutions at their heart. While diving deep into healthcare data, we discovered that what matters most is making information accessible and useful for those who need it. Like putting together a puzzle, we learned how connecting the right pieces can reveal a bigger picture that helps doctors better understand and treat their patients.
 Working together showed us the power of diverse perspectives and the importance of clear communication. Sometimes the best ideas came from casual conversations and brainstorming sessions, reminding us that innovation isn't just about technology—it's about people working together to solve real problems.
 
+
+Contributors
+[@anuj846k](https://github.com/anuj846k)
+[@kshitijakarsh](https://github.com/kshitijakarsh)
+
+
